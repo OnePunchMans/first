@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chan" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$/fangzi" />
+    <content url="file://$MODULE_DIR$/model" />
     <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
